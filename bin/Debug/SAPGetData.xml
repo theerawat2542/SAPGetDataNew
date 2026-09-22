@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAPGetData
+</name>
+</assembly>
+<members>
+<member name="T:SAPGetData.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SAPGetData.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SAPGetData.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SAPGetData.ClsINI.writeIni(System.String,System.String,System.String,System.String)">
+ <summary>
+  Write INI File  writeIni(FilePath, Section, ParameterName, Value)
+ </summary>
+ <param name="iniFileName">File Path</param>
+ <param name="Section">Section Name</param>
+ <param name="ParamName">Parameter Name</param>
+ <param name="ParamVal">Values</param>
+ <remarks></remarks>
+</member>
+<member name="M:SAPGetData.ClsINI.ReadIni(System.String,System.String,System.String,System.String)">
+ <summary>
+ Read INI File : TextBox1.Text = ReadIni(FilePath, Section, ParameterName, "")
+ </summary>
+ <param name="IniFileName">File Path</param>
+ <param name="Section">Section Name</param>
+ <param name="ParamName">Parameter Name</param>
+ <param name="ParamDefault">Return Values</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

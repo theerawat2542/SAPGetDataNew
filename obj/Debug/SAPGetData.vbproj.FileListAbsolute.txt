@@ -1,0 +1,27 @@
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\bin\Debug\SAPGetData.exe
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\bin\Debug\SAPGetData.pdb
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\bin\Debug\SAPGetData.xml
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\bin\Debug\Interop.SAPFEWSELib.dll
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\ResolveAssemblyReference.cache
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\Interop.SAPFEWSELib.dll
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.vbproj.ResolveComReference.cache
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.Form1.resources
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.Resources.resources
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.vbproj.GenerateResource.Cache
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.exe
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.xml
+D:\Datas from E\Devzone\Haier\IT PLAN\Budget 2019\โครงการที่ทำในปี 2019\SAPGetData Program\SAPGetData\SAPGetData\obj\Debug\SAPGetData.pdb
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.exe
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.xml
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.pdb
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\bin\Debug\SAPGetData.exe
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\bin\Debug\SAPGetData.pdb
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\bin\Debug\SAPGetData.xml
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\bin\Debug\Interop.SAPFEWSELib.dll
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.vbproj.AssemblyReference.cache
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\Interop.SAPFEWSELib.dll
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.vbproj.ResolveComReference.cache
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.Form1.resources
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.Resources.resources
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.vbproj.GenerateResource.cache
+C:\Users\240097512\Desktop\IT\Cheque\SAPGetData\obj\Debug\SAPGetData.vbproj.CoreCompileInputs.cache
