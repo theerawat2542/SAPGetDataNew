@@ -17,14 +17,14 @@
     Public Function DBConnectStringOracle() As String
         Dim FileConfigINI_mcode = Application.StartupPath + "\config.ini"
         'DBConnectStringOracle = "Provider=OraOLEDB.Oracle;" & _
-        '                        "Data Source=(DESCRIPTION=(CID=GTU_APP)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=190.7.10.7)(PORT=1521)))(CONNECT_DATA=(SID=htcwms)(SERVER=DEDICATED)));" & _
+        '                        "Data Source=(DESCRIPTION=(CID=GTU_APP)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.35.10.7)(PORT=1521)))(CONNECT_DATA=(SID=htcwms)(SERVER=DEDICATED)));" & _
         '                        "User Id=htcwms;Password=htcwms;"
         DBConnectStringOracle = clsFileINI.ReadIni(FileConfigINI_mcode, "Database", "DBConnectStringOracle", "")
     End Function
     Public Function DBConnectStringSQLServer() As String
         Dim FileConfigINI_mcode = Application.StartupPath + "\config.ini"
         'DBConnectStringOracle = "Provider=OraOLEDB.Oracle;" & _
-        '                        "Data Source=(DESCRIPTION=(CID=GTU_APP)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=190.7.10.7)(PORT=1521)))(CONNECT_DATA=(SID=htcwms)(SERVER=DEDICATED)));" & _
+        '                        "Data Source=(DESCRIPTION=(CID=GTU_APP)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.35.10.7)(PORT=1521)))(CONNECT_DATA=(SID=htcwms)(SERVER=DEDICATED)));" & _
         '                        "User Id=htcwms;Password=htcwms;"
         DBConnectStringSQLServer = clsFileINI.ReadIni(FileConfigINI_mcode, "DatabaseSQLServer", "DBConnectStringSQLServer", "")
     End Function
